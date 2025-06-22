@@ -1,0 +1,15 @@
+{
+  "name": "scraping-demo",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "scrapingbee": "^1.7.5"
+  }
+}
